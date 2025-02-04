@@ -1,4 +1,4 @@
-package machineCoding.designPattern.adapter;
+package designPattern.adapter;
 
 public interface ICharger {
     void charge220V();

@@ -1,4 +1,4 @@
-package machineCoding.splitwise;
+package splitwise;
 
 public class SplitwiseDemo {
 

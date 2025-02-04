@@ -1,4 +1,4 @@
-package machineCoding.designPattern.singleton;
+package designPattern.singleton;
 
 
 /* 

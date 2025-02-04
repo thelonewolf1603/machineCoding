@@ -1,4 +1,3 @@
-package machineCoding;
 
 public class Test {
     public static final Test instance = null;

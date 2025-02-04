@@ -1,4 +1,4 @@
-package machineCoding.designPattern.factory;
+package designPattern.factory;
 
 public class Main {
     public static void main(String args[])

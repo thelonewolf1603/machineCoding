@@ -1,4 +1,4 @@
-package machineCoding.designPattern.builder;
+package designPattern.builder;
 /* 
  The Builder Pattern is a creational design pattern used to construct complex objects step by step. It allows the creation of different representations of an object using the same construction process.
 Instead of having a constructor with too many parameters, the Builder pattern provides a step-by-step approach to object construction, making it more readable and maintainable.

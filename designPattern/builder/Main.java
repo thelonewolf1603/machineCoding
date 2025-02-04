@@ -1,4 +1,4 @@
-package machineCoding.designPattern.builder;
+package designPattern.builder;
 
 public class Main {
 

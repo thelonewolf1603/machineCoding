@@ -1,6 +1,6 @@
-package machineCoding.designPattern.factory.shapes;
+package designPattern.factory.shapes;
 
-import machineCoding.designPattern.factory.IShape;
+import designPattern.factory.IShape;
 
 public class Square implements IShape{
 

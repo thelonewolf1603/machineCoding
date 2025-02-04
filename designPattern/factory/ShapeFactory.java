@@ -1,8 +1,8 @@
-package machineCoding.designPattern.factory;
+package designPattern.factory;
 
-import machineCoding.designPattern.factory.shapes.Circle;
-import machineCoding.designPattern.factory.shapes.Square;
-import machineCoding.designPattern.factory.shapes.Triangle;
+import designPattern.factory.shapes.Circle;
+import designPattern.factory.shapes.Square;
+import designPattern.factory.shapes.Triangle;
 
 public class ShapeFactory {
 

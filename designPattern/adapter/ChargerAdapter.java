@@ -1,4 +1,4 @@
-package machineCoding.designPattern.adapter;
+package designPattern.adapter;
 /* acts as bridge between 2 incompatible interfaces */
 public class ChargerAdapter implements ICharger {
 

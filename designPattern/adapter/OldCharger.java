@@ -1,4 +1,4 @@
-package machineCoding.designPattern.adapter;
+package designPattern.adapter;
 
 public class OldCharger {
     public void charge110V()

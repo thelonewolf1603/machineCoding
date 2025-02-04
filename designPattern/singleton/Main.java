@@ -1,4 +1,4 @@
-package machineCoding.designPattern.singleton;
+package designPattern.singleton;
 
 /* 
 ensures that a single instance of class is created during runtime
