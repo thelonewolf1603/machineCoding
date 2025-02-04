@@ -1,4 +1,8 @@
 package designPattern.strategy;
+/* 
+ * Strategy pattern is used when there are multiple ways to execute a particular task, we create separate class for each strategy, 
+ * and execute them via a Strategy context class, by setting the strategy 
+ */
 
 public class Main {
 
