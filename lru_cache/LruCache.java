@@ -84,7 +84,7 @@ public class LruCache<K, V> {
 
         if(node == null)
         {
-            if(currSize >= maxSize)
+            if(full())
             {
                 Node<K> tail = getTail();
                 remove(tail);
